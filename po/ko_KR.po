@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tilda\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2008-01-30 19:35-0800\n"
+"PO-Revision-Date: 2025-01-22 01:24+0900\n"
+"Last-Translator: Jung-Kyu Park <bagjunggyu@gmail.com>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2025-01-21 03:08+0000\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: tilda.glade:7
+msgid "Tilda Config"
+msgstr "틸다 설정"
+
+#: tilda.glade:42
+msgid "Display on all workspaces"
+msgstr "모든 작업공간에 보이기"
+
+#: tilda.glade:55
+msgid "Always on top"
+msgstr "항상 위에 두기"
+
+#: tilda.glade:70
+msgid "Do not show in taskbar"
+msgstr "작업표시줄에 보이지 않기"
+
+#: tilda.glade:85 src/tilda.c:303
+msgid "Start Tilda hidden"
+msgstr "틸다와 아이콘 감추기"
+
+#: tilda.glade:102
+msgid "Show Notebook Border"
+msgstr "창 테두리 표시"
+
+#: tilda.glade:117
+msgid "Enable Double Buffering"
+msgstr "더블 버퍼링 사용"
+
+#: tilda.glade:138
+msgid "<b>Window Display</b>"
+msgstr "<b>창 표시</b>"
+
+#: tilda.glade:169
+msgid "Audible Terminal Bell"
+msgstr "터미널 벨소리 사용"
+
+#: tilda.glade:182
+msgid "Cursor Blinks"
+msgstr "커서 깜빡임 사용"
+
+#: tilda.glade:201
+msgid "<b>Terminal Display</b>"
+msgstr "<b>터미널 표시</b>"
+
+#: tilda.glade:234
+msgid "Enable Antialiasing"
+msgstr "안티앨리어싱 활성화"
+
+#: tilda.glade:247
+msgid "Allow Bold Text"
+msgstr "굵은 글씨체 허용"
+
+#: tilda.glade:262
+msgid "Position of Tabs:"
+msgstr "탭 위치:"
+
+#: tilda.glade:275 tilda.glade:1084
+msgid ""
+"Top\n"
+"Bottom\n"
+"Left\n"
+"Right"
+msgstr ""
+"위\n"
+"아래\n"
+"왼쪽\n"
+"오른쪽"
+
+#: tilda.glade:315
+msgid "Font:"
+msgstr "글꼴:"
+
+#: tilda.glade:334
+msgid "<b>Font</b>"
+msgstr "<b>글꼴</b>"
+
+#: tilda.glade:358
+msgid "General"
+msgstr "일반 설정"
+
+#: tilda.glade:404
+msgid "Web Browser"
+msgstr "웹 브라우저"
+
+#: tilda.glade:419
+msgid "<b>URL Handling</b>"
+msgstr "URL 관리"
+
+#: tilda.glade:451
+msgid "Initial Title:"
+msgstr "제목"
+
+#: tilda.glade:461
+msgid "Dynamically-set Title:"
+msgstr "탭 제목 자동설정"
+
+#: tilda.glade:484
+msgid ""
+"Isn't displayed\n"
+"Goes after initial title\n"
+"Goes before initial title\n"
+"Replace initial title"
+msgstr ""
+"사용 안 함\n"
+"기본 탭 제목 뒤에 표시\n"
+"기본 탭 제목 앞에 표시\n"
+"기본 탭 대신 표시"
+
+#: tilda.glade:505
+msgid "<b>Title</b>"
+msgstr "<b>제목</b>"
+
+#: tilda.glade:538
+msgid "Run a custom command instead of the shell"
+msgstr "쉘 대신 사용자 지정 명령어 실행하기"
+
+#: tilda.glade:550
+msgid "Custom Command:"
+msgstr "사용자 지정 명령어:"
+
+#: tilda.glade:562
+msgid "When Command Exits:"
+msgstr "사용자 지정 명령어 종료 후:"
+
+#: tilda.glade:574
+msgid ""
+"Hold the terminal open\n"
+"Restart the command\n"
+"Exit the terminal"
+msgstr ""
+"터미널 유지\n"
+"명령어 다시 시작\n"
+"터미널 종료"
+
+#: tilda.glade:607
+msgid "<b>Command</b>"
+msgstr "<b>명령</b>"
+
+#: tilda.glade:632
+msgid "Title and Command"
+msgstr "제목 및 명령"
+
+#: tilda.glade:662 tilda.glade:748
+msgid "Percentage"
+msgstr "백분율"
+
+#: tilda.glade:687 tilda.glade:759
+msgid "In Pixels"
+msgstr "픽셀"
+
+#: tilda.glade:718
+msgid "<b>Height</b>"
+msgstr "<b>높이</b>"
+
+#: tilda.glade:804
+msgid "<b>Width</b>"
+msgstr "<b>너비</b>"
+
+#: tilda.glade:836
+msgid "Centered Horizontally"
+msgstr "수평 가운데"
+
+#: tilda.glade:852
+msgid "Centered Vertically"
+msgstr "수직 가운데"
+
+#: tilda.glade:869 src/tilda.c:310
+msgid "X Position"
+msgstr "수평 위치"
+
+#: tilda.glade:882 src/tilda.c:311
+msgid "Y Position"
+msgstr "수직 위치"
+
+#: tilda.glade:933
+msgid "<b>Position</b>"
+msgstr "<b>위치</b>"
+
+#: tilda.glade:968
+msgid "Enable Transparency"
+msgstr "투명한 터미널 실행"
+
+#: tilda.glade:981
+msgid "Level of Transparency"
+msgstr "투명도"
+
+#: tilda.glade:1008
+msgid "Animated Pulldown"
+msgstr "창 내림 애니메이션"
+
+#: tilda.glade:1023
+msgid "Use Image for Background"
+msgstr "배경 그림 사용"
+
+#: tilda.glade:1038
+msgid "Animation Delay (usec)"
+msgstr "애니메이션 지연값 (usec)"
+
+#: tilda.glade:1053
+msgid "Animation Orientation"
+msgstr "애니메이션 시작 지점"
+
+#: tilda.glade:1120
+msgid "<b>Extras</b>"
+msgstr "<b>기타</b>"
+
+#: tilda.glade:1145
+msgid "Appearance"
+msgstr "꾸미기"
+
+#: tilda.glade:1187
+msgid "Built-in Schemes"
+msgstr "내장 색상표"
+
+#: tilda.glade:1197
+msgid ""
+"Custom\n"
+"Green on Black\n"
+"Black on White\n"
+"White on Black"
+msgstr ""
+"사용자 지정\n"
+"검정 배경에 녹색 글자\n"
+"흰 배경에 검정 글자\n"
+"검정 배경에 흰 글자"
+
+#: tilda.glade:1212
+msgid "Text Color"
+msgstr "글자 색"
+
+#: tilda.glade:1224
+msgid "Background Color"
+msgstr "배경 색"
+
+#: tilda.glade:1270
+msgid "<b>Foreground and Background Colors</b>"
+msgstr "<b>전경 및 배경 색</b>"
+
+#: tilda.glade:1293
+msgid "Colors"
+msgstr "색"
+
+#: tilda.glade:1323
+msgid "Scroll on Output"
+msgstr "출력이 있으면 스크롤"
+
+#: tilda.glade:1338
+msgid "Scroll on Keystroke"
+msgstr "키를 누르면 스크롤"
+
+#: tilda.glade:1353
+msgid "Scroll Background"
+msgstr "배경그림 스크롤"
+
+#: tilda.glade:1381
+msgid "lines"
+msgstr "줄"
+
+#: tilda.glade:1399
+msgid ""
+"On the Left\n"
+"On the Right\n"
+"Disabled"
+msgstr ""
+"왼쪽 옆에\n"
+"오른쪽 옆에\n"
+"사용 안 함"
+
+#: tilda.glade:1413
+msgid "Scrollback:"
+msgstr "스크롤 범위:"
+
+#: tilda.glade:1426
+msgid "Scrollbar is:"
+msgstr "스크롤 막대 위치:"
+
+#: tilda.glade:1441
+msgid "<b>Scrolling</b>"
+msgstr "<b>스크롤</b>"
+
+#: tilda.glade:1464
+msgid "Scrolling"
+msgstr "스크롤"
+
+#: tilda.glade:1482
+msgid "<b>Compatibility</b>"
+msgstr "<b>호환성</b>"
+
+#: tilda.glade:1496
+msgid "    "
+msgstr "    "
+
+#: tilda.glade:1512
+msgid ""
+"<small><i><b>Note:</b> These options may cause some applications to behave "
+"incorrectly.  They are only here to allow you to work around certain "
+"applications and operating systems that expect different terminal behavior."
+"</i></small>"
+msgstr ""
+"<small><i><b>알림:</b> 다음 옵션을 켜면 일부 프로그램이 제대로 작동하지 않"
+"을 수도 있습니다. 다음 옵션은 다른 방식의 터미널 동작을 가정하는 일부 프로"
+"그램과 일부 운영체제의 문제를 피해가는 기능일 뿐입니다.</i></small>"
+
+#: tilda.glade:1531
+msgid "_Delete key generates:"
+msgstr "Delete 키를 누르면(_D):"
+
+#: tilda.glade:1546
+msgid "_Backspace key generates:"
+msgstr "백스페이스 키를 누르면(_B):"
+
+#: tilda.glade:1558 tilda.glade:1571
+msgid ""
+"ASCII DEL\n"
+"Escape sequence\n"
+"Control-H"
+msgstr ""
+"ASCII DEL\n"
+"이스케이프 문자열\n"
+"Control-H"
+
+#: tilda.glade:1599
+msgid "_Reset Compatibility Options to Defaults"
+msgstr "호환성 선택 사항을 기본값으로 재설정(_R)"
+
+#: tilda.glade:1630
+msgid "Compatibility"
+msgstr "호환성"
+
+#: tilda.glade:1660
+msgid "Key Binding"
+msgstr "바로 가기"
+
+#: tilda.glade:1683
+msgid "Grab Keybinding"
+msgstr "단축키 잡기"
+
+#: tilda.glade:1702
+msgid "<b>Pulldown Key</b>"
+msgstr "<b>창 내림 키</b>"
+
+#: tilda.glade:1725
+msgid "Keybindings"
+msgstr "바로 가기"
+
+#: tilda.glade:1750
+msgid "gtk-close"
+msgstr "닫기"
+
+#: src/callback_func.c:53
+msgid "Untitled"
+msgstr "제목 없음"
+
+#: src/callback_func.c:71
+msgid "Bad value for \"d_set_title\" in config file\n"
+msgstr "설정 파일의 \"d_set_title\" 값이 잘못되었습니다.\n"
+
+#: src/configsys.c:128
+msgid "Problem parsing config file\n"
+msgstr "설정 파일 구문에 문제가 있습니다.\n"
+
+#: src/configsys.c:249
+msgid "Unable to sync the config file to disk\n"
+msgstr "디스크에 설정 파일을 저장할 수 없습니다.\n"
+
+#: src/configsys.c:259
+msgid "Unable to close the config file\n"
+msgstr "설정 파일을 닫을 수 없습니다.\n"
+
+#: src/configsys.c:268
+#, c-format
+msgid "Unable to write the config file to %s\n"
+msgstr "%s에 설정 파일을 기록할 수 없습니다\n"
+
+#: src/tilda.c:214
+#, c-format
+msgid "Unable to run command: `%s'\n"
+msgstr "명령을 실행 할 수 없습니다: `%s'\n"
+
+#: src/tilda.c:237 src/tilda.c:460
+#, c-format
+msgid "Unable to open lock directory: %s\n"
+msgstr "디렉터리를 잠글 수 없습니다: %s\n"
+
+#: src/tilda.c:300
+msgid "Use Antialiased Fonts"
+msgstr "안티앨리어싱된 글꼴 사용"
+
+#: src/tilda.c:301
+msgid "Set the background color"
+msgstr "배경색 지정"
+
+#: src/tilda.c:302
+msgid "Run a command at startup"
+msgstr "시작하며 명령어 실행"
+
+#: src/tilda.c:304
+msgid "Set the font to the following string"
+msgstr "다음의 문자에 쓰일 글꼴을 지정하세요"
+
+#: src/tilda.c:305
+msgid "Scrollback Lines"
+msgstr "스크롤백 라인"
+
+#: src/tilda.c:306
+msgid "Use Scrollbar"
+msgstr "스크롤바 사용"
+
+#: src/tilda.c:307
+msgid "Opaqueness: 0-100%"
+msgstr "불투명도: 0-100%"
+
+#: src/tilda.c:308
+msgid "Print the version, then exit"
+msgstr "버전을 표시하고, 나가기"
+
+#: src/tilda.c:309
+msgid "Set Initial Working Directory"
+msgstr "시작 디렉토리 지정하기"
+
+#: src/tilda.c:312
+msgid "Set Background Image"
+msgstr "배경 사진 지정하기"
+
+#: src/tilda.c:313
+msgid "Show Configuration Wizard"
+msgstr "설정 마법사 보이기"
+
+#: src/tilda.c:329
+#, c-format
+msgid ""
+"Error parsing command-line options. Try \"tilda --help\"\n"
+"to see all possible options.\n"
+"\n"
+"Error message: %s\n"
+msgstr ""
+"명령-줄 선택 사항을 구문 분석하는 도중에 오류가 생겼습니다. \"tilda --"
+"help\"를 사용하셔서\n"
+"가능한 모든 선택사항을 확인하세요.\n"
+"\n"
+"오류 메시지: %s\n"
+
+#: src/tilda_terminal.c:386
+#, c-format
+msgid "Problem parsing custom command: %s\n"
+msgstr "사용자 지정 명령어 구문 분석 도중 문제 발생: %s\n"
+
+#: src/tilda_terminal.c:387 src/tilda_terminal.c:404
+msgid "Launching default shell instead\n"
+msgstr "대신 기본 셸을 실행\n"
+
+#: src/tilda_terminal.c:403
+#, c-format
+msgid "Unable to launch custom command: %s\n"
+msgstr "사용자 지정 명령어를 실행할 수 없음: %s\n"
+
+#: src/tilda_terminal.c:428
+#, c-format
+msgid "Unable to launch default shell: %s\n"
+msgstr "기본 셸을 실행할 수 없음: %s\n"
+
+#: src/tilda_terminal.c:675
+msgid "_New Tab"
+msgstr "새 탭(_N)"
+
+#: src/tilda_terminal.c:679
+msgid "_Close Tab"
+msgstr "탭 닫기(_C)"
+
+#: src/tilda_terminal.c:769
+#, c-format
+msgid "Failed to launch the web browser. The command was `%s'\n"
+msgstr "웹 브라우저 실행에 실패했습니다. 사용한 명령어 : `%s'\n"
+
+#: src/tilda_window.c:99
+msgid "You have a bad tab_pos in your configuration file\n"
+msgstr "tab_pos 설정 값이 잘못되었습니다.\n"
+
+#: src/tilda_window.c:333
+#, c-format
+msgid "Unable to set tilda's icon: %s\n"
+msgstr "틸다의 아이콘으로 설정할 수 없습니다: %s\n"
+
+#: src/tilda_window.c:480
+msgid "Out of memory, cannot create tab\n"
+msgstr "메모리가 부족합니다, 새로운 탭을 만들 수 없습니다.\n"
+
+#: src/wizard.c:180
+msgid "The keybinding you chose is invalid. Please choose another."
+msgstr ""
+"당신이 선택하신 바로 가기 키가 유효하지 않습니다. 다른 키를 선택하십시오."
+
+#: src/wizard.c:445
+msgid "Invalid tab position setting, ignoring\n"
+msgstr "유효하지 않은 탭 위치 설정입니다, 무시합니다\n"
