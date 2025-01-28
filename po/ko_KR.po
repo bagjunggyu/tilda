@@ -99,7 +99,7 @@ msgstr "웹 브라우저"
 
 #: tilda.glade:419
 msgid "<b>URL Handling</b>"
-msgstr "URL 관리"
+msgstr "<b>URL 관리</b>"
 
 #: tilda.glade:451
 msgid "Initial Title:"
