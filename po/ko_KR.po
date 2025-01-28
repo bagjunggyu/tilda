@@ -331,7 +331,7 @@ msgid ""
 "Control-H"
 msgstr ""
 "ASCII DEL\n"
-"이스케이프 문자열\n"
+"이스케이프 시퀀스\n"
 "Control-H"
 
 #: tilda.glade:1599
